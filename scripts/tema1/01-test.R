@@ -1,5 +1,5 @@
 #Esta línea no funciona, por ahora...
-#lm(y~x)
+#lm(y~x) xcc
 
 
 require(graphics)
